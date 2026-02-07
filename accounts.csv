@@ -1,0 +1,27 @@
+account_id,account,intensity,current spike,active
+1,CMF,2,no,yes
+2,BGR,1,Yes,yes
+3,ITAU,5,no,yes
+4,Pich Ecuador,5,no,yes
+5,Pich Peru,3,no,yes
+6,Arauco,5,no,yes
+7,CCA,4,no,yes
+8,Cermaq,2,no,yes
+9,Claro Peru,4,no,yes
+10,CMA (HNN),3,no,yes
+11,CMP,3,no,yes
+12,DIGICEL,3,no,yes
+13,Forum,4,no,yes
+14,INS,4,no,yes
+15,Lima Exp,1,Yes,yes
+16,Philips,2,Yes,yes
+17,Produbanco,2,no,yes
+18,Qualitas,1,no,yes
+19,Recipharm,3,no,yes
+20,RENIEC,3,no,yes
+21,Registro Civil,4,no,yes
+22,Suzano,4,no,yes
+23,Chedraui,2,no,yes
+24,Walmart,4,no,yes
+25,EoS Report,,,
+26,DCOSS Monitoring,,,
